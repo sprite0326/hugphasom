@@ -19,7 +19,7 @@
       Column
     </div>
     <div class="col">
-        <a href="https://www.sirikitdam.egat.com/app_sk/sk_temps/index.php">LINK</a>
+        <a href="http://www.sirikitdam.egat.com/app_sk/sk_temps/index.php">LINK</a>
     </div>
     <div class="col">
       Column
